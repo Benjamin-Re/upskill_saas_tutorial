@@ -51,6 +51,19 @@ h1, h2, h3 {
   }
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white;
+}
+
+.navbar-default .navbar-toggle {
+  border: 2px solid white;
+  &:hover, &:focus {
+    background-color: #FC5C7D;
+    opacity: 0.65;  
+  }
+}
+
+
 //Homepage Styles
 .home-callout {
   /* This is the container */
