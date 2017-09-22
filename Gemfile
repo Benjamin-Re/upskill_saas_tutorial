@@ -32,6 +32,9 @@ gem 'jbuilder', '2.5.0'
 #Use Font Awesome for SASS to include icons
 gem 'font-awesome-sass', '~> 4.6.2'
 
+#Use hirb for better database table display in console
+gem 'hirb', '0.7.3'
+
 #Use Twitter Bootstrap library for front end UI and layout
 gem "bootstrap-sass", "3.3.7"
 
